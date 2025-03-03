@@ -1,0 +1,801 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\anbu\anbu\ARM\ADVANCED PROJRCTS\SMART IRRIGATION\SMART_IRRIGATION.uvproj
+Project File Date:  09/27/2024
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+MAIN.C(104): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 2 warnings, 0 errors
+linking...
+Program Size: Code=4440 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION1.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=4440 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION1.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+MAIN.C(91): error:  #127: expected a statement
+MAIN.C:                         else 
+MAIN.C:                         ^
+MAIN.C(105): warning:  #12-D: parsing restarts here after previous syntax error
+MAIN.C:           delay(5000); // Check every 10 seconds
+MAIN.C:                      ^
+MAIN.C(108): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 1 error
+Target not created
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+MAIN.C(91): error:  #127: expected a statement
+MAIN.C:                         else 
+MAIN.C:                         ^
+MAIN.C(105): warning:  #12-D: parsing restarts here after previous syntax error
+MAIN.C:           delay(5000); // Check every 10 seconds
+MAIN.C:                      ^
+MAIN.C(108): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 1 error
+Target not created
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+MAIN.C(91): error:  #127: expected a statement
+MAIN.C:                         else 
+MAIN.C:                         ^
+MAIN.C(105): warning:  #12-D: parsing restarts here after previous syntax error
+MAIN.C:           delay(5000); // Check every 10 seconds
+MAIN.C:                      ^
+MAIN.C(108): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 1 error
+Target not created
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+MAIN.C(109): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 2 warnings, 0 errors
+linking...
+Program Size: Code=4396 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION1.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=4396 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION1.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=4396 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION1.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+MAIN.C(108): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 2 warnings, 0 errors
+linking...
+Program Size: Code=4396 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION1.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+MAIN.C(75): warning:  #128-D: loop is not reachable from preceding code
+MAIN.C:                           for(count=0;count<3;)
+MAIN.C:                           ^
+MAIN.C: MAIN.C: 2 warnings, 0 errors
+linking...
+Program Size: Code=4280 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+MAIN.C(108): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 2 warnings, 0 errors
+linking...
+Program Size: Code=4396 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+MAIN.C(87): warning:  #223-D: function "UART_TX" declared implicitly
+MAIN.C:                                 UART_TX(count);
+MAIN.C:                                 ^
+MAIN.C(101): warning:  #223-D: function "UART_TX" declared implicitly
+MAIN.C:                                 UART_TX(count);
+MAIN.C:                                 ^
+MAIN.C(110): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 4 warnings, 0 errors
+linking...
+SMART_IRRIGATION2.axf: Error: L6218E: Undefined symbol UART_TX (referred from main.o).
+SMART_IRRIGATION2.axf: Not enough information to list image symbols.
+SMART_IRRIGATION2.axf: Finished: 1 information, 0 warning and 1 error messages.
+Target not created
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+MAIN.C(110): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 2 warnings, 0 errors
+linking...
+Program Size: Code=4412 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=4412 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+MAIN.C(110): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 2 warnings, 0 errors
+linking...
+Program Size: Code=4396 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=4396 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(110): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 0 errors
+linking...
+Program Size: Code=4536 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=4536 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(111): warning:  #111-D: statement is unreachable
+MAIN.C:           delay(3s000); // Check every 10 seconds
+MAIN.C:           ^
+MAIN.C(111): error:  #18: expected a ")"
+MAIN.C:           delay(3s000); // Check every 10 seconds
+MAIN.C:                  ^
+MAIN.C(114): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 4 warnings, 1 error
+Target not created
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(111): warning:  #111-D: statement is unreachable
+MAIN.C:           delay(3000); // Check every 10 seconds
+MAIN.C:           ^
+MAIN.C(114): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 4 warnings, 0 errors
+linking...
+Program Size: Code=4564 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(111): warning:  #111-D: statement is unreachable
+MAIN.C:           delay(3000); // Check every 10 seconds
+MAIN.C:           ^
+MAIN.C(114): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 4 warnings, 0 errors
+linking...
+Program Size: Code=4564 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(112): warning:  #111-D: statement is unreachable
+MAIN.C:           delay(3000); // Check every 10 seconds
+MAIN.C:           ^
+MAIN.C(115): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 4 warnings, 0 errors
+linking...
+Program Size: Code=4564 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(112): warning:  #111-D: statement is unreachable
+MAIN.C:           delay(3000); // Check every 10 seconds
+MAIN.C:           ^
+MAIN.C(115): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 4 warnings, 0 errors
+linking...
+Program Size: Code=4564 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(91): error:  #20: identifier "count" is undefined
+MAIN.C:                                 UART0_integer(count);
+MAIN.C:                                               ^
+MAIN.C(96): error:  #127: expected a statement
+MAIN.C:                         else 
+MAIN.C:                         ^
+MAIN.C(112): warning:  #12-D: parsing restarts here after previous syntax error
+MAIN.C:                         }
+MAIN.C:                         ^
+MAIN.C(114): warning:  #111-D: statement is unreachable
+MAIN.C:           delay(3000); // Check every 10 seconds
+MAIN.C:           ^
+MAIN.C(117): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C(59): warning:  #177-D: variable "count2" was declared but never referenced
+MAIN.C:    int count1=0,count2=0;
+MAIN.C:                 ^
+MAIN.C(78): warning:  #177-D: label "xyz" was declared but never referenced
+MAIN.C:                           xyz:
+MAIN.C:                           ^
+MAIN.C: MAIN.C: 7 warnings, 2 errors
+Target not created
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(96): error:  #127: expected a statement
+MAIN.C:                         else 
+MAIN.C:                         ^
+MAIN.C(112): warning:  #12-D: parsing restarts here after previous syntax error
+MAIN.C:                         }
+MAIN.C:                         ^
+MAIN.C(114): warning:  #111-D: statement is unreachable
+MAIN.C:           delay(3000); // Check every 10 seconds
+MAIN.C:           ^
+MAIN.C(117): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C(59): warning:  #177-D: variable "count2" was declared but never referenced
+MAIN.C:    int count1=0,count2=0;
+MAIN.C:                 ^
+MAIN.C(78): warning:  #177-D: label "xyz" was declared but never referenced
+MAIN.C:                           xyz:
+MAIN.C:                           ^
+MAIN.C: MAIN.C: 7 warnings, 1 error
+Target not created
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(116): warning:  #111-D: statement is unreachable
+MAIN.C:           delay(3000); // Check every 10 seconds
+MAIN.C:           ^
+MAIN.C(119): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 4 warnings, 0 errors
+linking...
+Program Size: Code=4540 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(119): warning:  #111-D: statement is unreachable
+MAIN.C:           delay(3000); // Check every 10 seconds
+MAIN.C:           ^
+MAIN.C(122): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 4 warnings, 0 errors
+linking...
+Program Size: Code=4556 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(117): warning:  #111-D: statement is unreachable
+MAIN.C:           delay(3000); // Check every 10 seconds
+MAIN.C:           ^
+MAIN.C(120): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 4 warnings, 0 errors
+linking...
+Program Size: Code=4544 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(74): error:  #1182: a declaration cannot have a label
+MAIN.C:            int moistureLevel = readMoistureSensor();
+MAIN.C:            ^
+MAIN.C(116): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 1 error
+Target not created
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(117): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 0 errors
+linking...
+Program Size: Code=4548 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(123): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 0 errors
+linking...
+Program Size: Code=4556 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(125): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 0 errors
+linking...
+Program Size: Code=4572 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(107): warning:  #111-D: statement is unreachable
+MAIN.C:                                 if (moistureLevel)
+MAIN.C:                                 ^
+MAIN.C(129): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 4 warnings, 0 errors
+linking...
+Program Size: Code=4516 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(108): warning:  #111-D: statement is unreachable
+MAIN.C:                                 if (moistureLevel)
+MAIN.C:                                 ^
+MAIN.C(129): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 4 warnings, 0 errors
+linking...
+Program Size: Code=4500 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(116): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 0 errors
+linking...
+Program Size: Code=4520 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(76): error:  #268: declaration may not appear after executable statement in block
+MAIN.C:            int moistureLevel = readMoistureSensor();
+MAIN.C:            ^
+MAIN.C(118): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 1 error
+Target not created
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(119): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 0 errors
+linking...
+Program Size: Code=4540 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(122): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 0 errors
+linking...
+Program Size: Code=4544 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(116): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 0 errors
+linking...
+Program Size: Code=4524 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(116): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 0 errors
+linking...
+Program Size: Code=4520 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(74): error:  #268: declaration may not appear after executable statement in block
+MAIN.C:                  int moistureLevel = readMoistureSensor();
+MAIN.C:                  ^
+MAIN.C(117): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 1 error
+Target not created
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(117): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 0 errors
+linking...
+Program Size: Code=4528 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(118): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 0 errors
+linking...
+Program Size: Code=4528 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=4528 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(118): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 0 errors
+linking...
+Program Size: Code=4520 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=4520 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=4520 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=4520 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(118): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 0 errors
+linking...
+Program Size: Code=4520 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(118): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 0 errors
+linking...
+Program Size: Code=4520 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=4520 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=4520 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling MAIN.C...
+LCD.H(163): warning:  #1-D: last line of file ends without a newline
+LCD.H:   }
+LCD.H:    ^
+UART.H(45): warning:  #1-D: last line of file ends without a newline
+UART.H:   }
+UART.H:    ^
+MAIN.C(118): warning:  #111-D: statement is unreachable
+MAIN.C:       return 0;
+MAIN.C:       ^
+MAIN.C: MAIN.C: 3 warnings, 0 errors
+linking...
+Program Size: Code=4520 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=4520 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=4520 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=4520 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"SMART_IRRIGATION2.axf" - 0 Error(s), 0 Warning(s).
